@@ -1,0 +1,6 @@
+Inappropriate intimacy
+di class customer dan bankaccount memiliki hubungan yang terlalu erat dan data-data customer yang tidak dienkapsulasi sehingga bank dapat mengambilnya
+Caranya kita tinggal membuat enkapsulasi pada customer
+
+Feature Envy
+Class contactinfo memiliki feature envy pada class user ini kita perlu refactorkan agar emmudahkan pembacaan code dan menghilangkan code smell
