@@ -1,0 +1,4 @@
+Di printdetail krena smell kita membuat method baru agar dapat lebih mudah dibaca dan tidak smell lagi
+
+Karena totalprice adalah temporary field jadi kita extract method dengan membuat class baru.
+

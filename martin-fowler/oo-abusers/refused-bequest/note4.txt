@@ -1,0 +1,5 @@
+Alternative Classes
+Jadi karena menggunakan method yang memiliki isi sama maka kita tinggal memanggil class tersebut lalu memasukannya ke class yg membutuhkannya dan mengubah methodny
+
+Refuse Bequest
+Company ingin menghitung tax jadi kita tinggal mengambil method dri class personaltaxcalculator dan memanggilnyaa di class company

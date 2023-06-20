@@ -1,0 +1,5 @@
+Comment
+Hapus saja comment-comment yang tidak digunakan
+
+Duplicate code
+Hapus saja code-code yang terduplikasi

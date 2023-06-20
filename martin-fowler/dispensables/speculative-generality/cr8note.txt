@@ -1,0 +1,5 @@
+Dead code
+Hapus if pada discount calculator karena tidak digunakan lagi
+
+Speculative Generality
+Menghapus method calculate dan membuat method add,substract, multiply, divide,modulo

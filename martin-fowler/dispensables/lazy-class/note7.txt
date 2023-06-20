@@ -1,0 +1,3 @@
+Karena class worker hanyalah sebuah lazy class yang tidak melakukan apa" jadi kita masukan ke main
+
+Karena class currcoordinate hanyalah berupa data jadi kita masukan ke class coordinate
