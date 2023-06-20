@@ -1,0 +1,5 @@
+Multifaceted abstraction
+Pada code smell ini fungsi print memiliki dua tanggung jawab yaitu print full dan print border, dalam satu method sehingga cara refactoringnnya adalah dengan membuat method baru untuk printFull dan printBorder agar memudahkan dalam pemangilan fungsi
+
+Unnecessary abstraction
+Button yang berbeda warna tidak perlu dibuat class baru, kita hanya perlu membuat class coloredbutton untuk menampung semua data dan tinggal menaruh atribut color didalamnya.

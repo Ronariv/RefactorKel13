@@ -1,0 +1,5 @@
+di Qr Data kita tambah optional agar dapat extract hashmapsnya jadi dapat lebih berfungsi dengan baik. 
+
+Di dalam image format kita buat image format lagi jangan dengan png saja agar dapat menghasilkan format selain png
+
+Lalu di program kita masukan QrToByteArrayInputStream untuk classnya sehingga menampung class tersebut.
