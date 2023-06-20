@@ -1,0 +1,3 @@
+Di dalam codingnya banyak encapsulation yang tidak terbentuk sehingga dapat menyebabkan code leak secara bebas dan dapat diubah-ubah tanpa proteksi sehingga yang dapat kita lakukan adalah membuat encapsulation pada class-class agar terlindung dari perubahan yang semena-mena.
+
+Kita mengubah atribut yang public di setiap class dan menjadikannya private lalu membuat setter getter. Lalu ubah code yang ada di Mainnya.

@@ -1,0 +1,6 @@
+Broken Modularization
+Untuk merefactor code smell ini kita dapat membuat code-code ini menjadi encapsulate dan membuat 2 data mahasiswa yang terpisah menjadi satu saja
+
+Insufficient Modularization
+Code smell ini berarti code masih dapat didekomposisi menjadi lebih ringan, mudah dibaca dan lebih baik lagi
+Jadi kita tinggal membuat beberapa perubahan pada class shoppingcart

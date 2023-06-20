@@ -1,0 +1,1 @@
+Karena user dan role terlalu dependance satu sama lain maka kita membuat class baru yaitu userRole sehingga user berhubungan dengan UserRole dan role berhubungan dengan userRole dan menghilangkan keterkaitanyang berlebihannya.
