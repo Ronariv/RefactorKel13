@@ -1,0 +1,3 @@
+Agar tidak terjadi data clumps dapat membuat class satu lagi yaitu rentalduration ini dibuat agar kode lebih mudah dilihat dan di class rental tidak terlalu banyak data
+
+long parameter bisa membuat programmer yang membaca jadi bingung maka kita ubah di class Main nya beberapa fungsi yang menggunakan terlalu banyak parameter yang panjang lalu mengubah di walletnotif agar langsung menggunakan class user dibandingkan mengisi satu-satu lagi.

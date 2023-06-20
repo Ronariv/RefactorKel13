@@ -1,0 +1,7 @@
+Change Preventer
+
+Divergent Change
+Kita mengubah print di rectangle extract method dan memindahkan ke borderprinter class dan fullprinter class
+
+Pararel Inheritance
+Terlalu banyak calculator menyebabkan kesulitan dalam mengubah code nntinya jadi kita implement areainterface ke shape2d dan tinggal return areanya

@@ -1,0 +1,5 @@
+Primitive obsession
+Di code smell ini masih banyak menggunakan primitive datatype sehingga kita dapat merefactor dengan mengubah primitive menjadi datatype yang lebih baru
+
+Large Class
+class tersebut melakukan begitu banyak method sendirian sehingga agar dapat memudahkan programmer dapat merefactor dengan mengubah class tersebut dan extract classny menjadi lebih kecil
